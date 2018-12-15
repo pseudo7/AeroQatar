@@ -20,4 +20,4 @@
    `Note: The plane should be atleast having the speed of `**100Km/h** `for the Middle Controls to work.`
 - The 2 Gauges in right bottom is for the `Speed` and `Altitude.`
 
-**PS:** If anything goes wrong, you can always apply the `Breaks`. :wink: 
+**PS:** If anything goes wrong, you can always apply the `Brakes`. :wink: 
