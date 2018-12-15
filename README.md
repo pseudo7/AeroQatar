@@ -24,10 +24,10 @@
 
 # Screenshots
 
-<img src="/Screenshots/Screenshot_20181215-132111.jpg" height="70%" width="70%">
+<img src="/Screenshots/Screenshot_20181215-132111.jpg">
 
-<img src="/Screenshots/Screenshot_20181215-132128.jpg" height="70%" width="70%">
+<img src="/Screenshots/Screenshot_20181215-132128.jpg">
 
-<img src="/Screenshots/Screenshot_20181215-132237.jpg" height="70%" width="70%">
+<img src="/Screenshots/Screenshot_20181215-132237.jpg">
 
-<img src="/Screenshots/Screenshot_20181215-134609.jpg" height="70%" width="70%">
+<img src="/Screenshots/Screenshot_20181215-134609.jpg">
