@@ -21,3 +21,13 @@
 - The 2 Gauges in right bottom is for the `Speed` and `Altitude.`
 
 **PS:** If anything goes wrong, you can always apply the `Brakes`. :wink: 
+
+# Screenshots
+
+<img src="/Screenshots/Screenshot_20181215-132111.jpg" height="70%" width="70%">
+
+<img src="/Screenshots/Screenshot_20181215-132128.jpg" height="70%" width="70%">
+
+<img src="/Screenshots/Screenshot_20181215-132237.jpg" height="70%" width="70%">
+
+<img src="/Screenshots/Screenshot_20181215-134609.jpg" height="70%" width="70%">
