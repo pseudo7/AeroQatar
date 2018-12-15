@@ -4,4 +4,4 @@
 
 ### A `POC` game for `Qatar Airways` made using Unity's Physics Engine and CrossPlatform Input Module.
 
-<img src="/Screenshots/Screenshot_20181215-132102.jpg" height="40%" width="40%">
+<img src="/Screenshots/Screenshot_20181215-132102.jpg">
